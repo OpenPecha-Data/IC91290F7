@@ -1,15 +1,16 @@
-id: opecha:P008159
+id: P008159
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W3CN4037
   title: དཔལ་ལྡན་ས་སྐྱ་པའི་ཞལ་འདོན་ཕྱོགས་བསྒྲིགས།
-  volume:
+  author: ''
+  volumes:
     a1394370f96a46cd904edc75924ab66b:
       image_group_id: I3CN4223
       title: Volume 1 of dpal ldan sa skya pa'i zhal 'don phyogs bsgrigs/
       volume_number: 1
       total_pages: 938
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: དཔལ་ལྡན་ས་སྐྱ་པའི་ཞལ་འདོན་ཕྱོགས་བསྒྲིགས།
   author: ''
